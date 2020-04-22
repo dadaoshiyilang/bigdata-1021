@@ -1,0 +1,1 @@
+Index.PACKAGES = {"com" : [], "com.atguigu" : [], "com.atguigu.scala" : [], "com.atguigu.scala.chapter02" : [{"object" : "com\/atguigu\/scala\/chapter02\/Scala01_TestComment$.html", "name" : "com.atguigu.scala.chapter02.Scala01_TestComment"}]};
